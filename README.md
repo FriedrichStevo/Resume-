@@ -38,8 +38,9 @@ Tableau (2016, Udemy);
 Certified certificates: (https://padlet.com/ukyawthu054321/6as7nhtcb2d5)
 
 #Institute of Economics, Yangon
-Master of Commerce (1993)
-B.Com (Hons) (1985)
+
+Master of Commerce (1993);
+B.Com (Hons) (1985);
 B.Com (1984)
 
 #MBA Chester
