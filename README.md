@@ -8,9 +8,9 @@ Passion to be expertise on financial data analyst.
 
 # Achievements
 
-Effective use of data from the web, and easy to produce candlestick charts for the target portfolio 
-Research on a study of strategic performance measure of JPMorgan (2006-2015)
-Comparative financial performance of Social Media Organisations: Facebook Vs Twitter
+Effective use of data from the web, and easy to produce candlestick charts for the target portfolio; 
+Research on a study of strategic performance measure of JPMorgan (2006-2015);
+Comparative financial performance of Social Media Organisations: Facebook Vs Twitter;
 
 # Skills
 
@@ -47,9 +47,10 @@ B.Com (1984)
 attended from Dimensions Int, Singapore, completed Finance and Marketing modules (2015-2016).
 
 # Interests and activities
-Assistant teacher of international vipassana meditation by SN Goenka
-Landscape photography
-Video editing
+
+Assistant teacher of international vipassana meditation by SN Goenka;
+Landscape photography;
+Video editing;
 Graphic design and digital arts
 
 # Reference
