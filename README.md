@@ -29,10 +29,12 @@ TMI , Yangon (1996- 2014)
     
 # Education
 #Online learning : 
-Data Science specialisation (2015-2016; Johns Hopkins_Coursera)
-Introduction to Finance (2015; Michigan_Coursera)
-Web 2.0 Tools (2015; Houston_Coursera)
-Tableau (2016, Udemy)
+
+Data Science specialisation (2015-2016; Johns Hopkins_Coursera);
+Introduction to Finance (2015; Michigan_Coursera);
+Web 2.0 Tools (2015; Houston_Coursera);
+Tableau (2016, Udemy);
+
 Certified certificates: (https://padlet.com/ukyawthu054321/6as7nhtcb2d5)
 
 #Institute of Economics, Yangon
