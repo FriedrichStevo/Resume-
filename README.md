@@ -14,7 +14,7 @@ Comparative financial performance of Social Media Organisations: Facebook Vs Twi
 
 # Skills
 
-R     Tableau     SQL     Excel   FinalCut Pro
+R;     Tableau;     SQL;     Excel;   FinalCut Pro
 
 
 # Experience
