@@ -12,7 +12,7 @@ Effective use of data from the web, and easy to produce candlestick charts for t
 Research on a study of strategic performance measure of JPMorgan (2006-2015)
 Comparative financial performance of Social Media Organisations: Facebook Vs Twitter
 
-Skills
+# Skills
 
 R     Tableau     SQL     Excel   FinalCut Pro
 
